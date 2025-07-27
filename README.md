@@ -71,7 +71,7 @@ This phase involved the following steps:
 2. **Cohort Metrics:** Calculated key metrics (e.g., retention rate, average spend) for each cohort.
 3. **Tabular Representation:** Generated Cohort Retention rate to aid in cohort comparison.
 
-For a detailed view of the Cohort Analysis process, refer to the [Alteryx Workflow (.yxmd)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/3.%20Workflows/Phase%201-2-3.yxmd)
+
 ...
 
 ## 4. Phase 3 Insights Generation {#insights-generation}
@@ -89,10 +89,6 @@ The final phase encompassed building worflows to derive the following:
 11. **Customer Transaction Metrics**: Calculated three metrics for each customer. Total number of transactions. Total amount spent, Average profit per transaction
 12. **Top Product Lines by Revenue Percentage**: Identified product lines contributing the highest percentage of revenue.
 13. **Customers Engaged with Entire Product Range**: Identified customers who made transactions in all distinct product lines.
-
-
-
-For a detailed view of the Business Insights Generation process, refer to the [Alteryx Workflow (.yxmd)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/3.%20Workflows/Phase%201-2-3.yxmd).
 
 
 ## 5. Project Inspiration {#project-inspiration}
@@ -129,13 +125,7 @@ Throughout this project, I harnessed the full potential of Alteryx, seamlessly e
 I ensured an efficient data transformation process. This would have taken me 3 weeks (120 man hours using the SQL and Python approach) and i built this worklow in **just 3 days**.
 This comprehensive utilization of Alteryx highlights its remarkable capabilities in ETL( Extract - Load - Transformation)
 
-## 7. Upcoming Additions {#upcoming-additions}
 
-I plan to automate the generation of a comprehensive PDF report combining Phase 2 cohort analysis results with answers to 13 business questions. This report will be sent automatically to a designated list of recipients. Additionally, I'm exploring the possibility of exporting Phase 2 cohort analysis data to Tableau using the Tableau output tool.
-
-
-**Project Created By: [Roopmathi Gunna]**
-**Date: [10-06-2023]**
 
 ---
 
